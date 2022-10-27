@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="bloco1">1</integer>
+    <integer name="bloco2">2</integer>
+    <integer name="bloco3">3</integer>
+    <integer name="bloco4">4</integer>
+    <integer name="ap101">101</integer>
+    <integer name="ap102">102</integer>
+    <integer name="ap103">103</integer>
+    <integer name="ap104">104</integer>
+</resources>

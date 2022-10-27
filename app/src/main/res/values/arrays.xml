@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="nomes">
+        <item>@string/joao</item>
+        <item>@string/maria</item>
+        <item>@string/jose</item>
+        <item>@string/pedro</item>
+        <item>@string/carlos</item>
+        <item>@string/lucas</item>
+        <item>@string/julia</item>
+        <item>@string/luna</item>
+        <item>@string/luciana</item>
+        <item>@string/mariane</item>
+    </string-array>
+
+    <string-array name="situacoes">
+        <item>@string/proprietario</item>
+        <item>@string/locatario</item>
+        <item>@string/proprietario</item>
+        <item>@string/locatario</item>
+        <item>@string/proprietario</item>
+        <item>@string/locatario</item>
+        <item>@string/proprietario</item>
+        <item>@string/locatario</item>
+        <item>@string/proprietario</item>
+        <item>@string/locatario</item>
+    </string-array>
+
+    <integer-array name="blocos">
+        <item>@integer/bloco1</item>
+        <item>@integer/bloco2</item>
+        <item>@integer/bloco3</item>
+        <item>@integer/bloco4</item>
+        <item>@integer/bloco1</item>
+        <item>@integer/bloco2</item>
+        <item>@integer/bloco3</item>
+        <item>@integer/bloco4</item>
+        <item>@integer/bloco1</item>
+        <item>@integer/bloco2</item>
+    </integer-array>
+
+    <integer-array name="apartamentos">
+        <item>@integer/ap101</item>
+        <item>@integer/ap102</item>
+        <item>@integer/ap103</item>
+        <item>@integer/ap104</item>
+        <item>@integer/ap101</item>
+        <item>@integer/ap102</item>
+        <item>@integer/ap103</item>
+        <item>@integer/ap104</item>
+        <item>@integer/ap101</item>
+        <item>@integer/ap102</item>
+    </integer-array>
+
+</resources>
